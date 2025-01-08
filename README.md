@@ -17,3 +17,7 @@ git staging
 
 * git add .
 * git commit -m "Your Message"
+
+git Push
+
+* git push origin -u main
