@@ -6,3 +6,14 @@ Configuration CMD
 * git config --global user.name "Wajiha Wajid"
 * git config --global user.email "wajihawajiha1222@gmail.com"
 * git config-- list
+
+
+Git Clone Status
+
+* git clone <url>
+* git status
+
+git staging
+
+* git add .
+* git commit -m "Your Message"
